@@ -6,3 +6,6 @@ Body:
 
 Footer:
 <insert any additional info, such as references or issue/ticket numbers>
+
+Changes...
+
